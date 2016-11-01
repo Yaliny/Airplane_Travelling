@@ -1,0 +1,10 @@
+C:\Users\sunfl\Documents\GitHub\Airplane_Travelling\C#\Airplane_Travelling\Airplane_Travelling\bin\Debug\Airplane_Travelling.exe.config
+C:\Users\sunfl\Documents\GitHub\Airplane_Travelling\C#\Airplane_Travelling\Airplane_Travelling\bin\Debug\Airplane_Travelling.exe
+C:\Users\sunfl\Documents\GitHub\Airplane_Travelling\C#\Airplane_Travelling\Airplane_Travelling\bin\Debug\Airplane_Travelling.pdb
+C:\Users\sunfl\Documents\GitHub\Airplane_Travelling\C#\Airplane_Travelling\Airplane_Travelling\obj\Debug\Airplane_Travelling.csprojResolveAssemblyReference.cache
+C:\Users\sunfl\Documents\GitHub\Airplane_Travelling\C#\Airplane_Travelling\Airplane_Travelling\obj\Debug\Airplane_Travelling.Form1.resources
+C:\Users\sunfl\Documents\GitHub\Airplane_Travelling\C#\Airplane_Travelling\Airplane_Travelling\obj\Debug\Airplane_Travelling.Form2.resources
+C:\Users\sunfl\Documents\GitHub\Airplane_Travelling\C#\Airplane_Travelling\Airplane_Travelling\obj\Debug\Airplane_Travelling.Properties.Resources.resources
+C:\Users\sunfl\Documents\GitHub\Airplane_Travelling\C#\Airplane_Travelling\Airplane_Travelling\obj\Debug\Airplane_Travelling.csproj.GenerateResource.Cache
+C:\Users\sunfl\Documents\GitHub\Airplane_Travelling\C#\Airplane_Travelling\Airplane_Travelling\obj\Debug\Airplane_Travelling.exe
+C:\Users\sunfl\Documents\GitHub\Airplane_Travelling\C#\Airplane_Travelling\Airplane_Travelling\obj\Debug\Airplane_Travelling.pdb
