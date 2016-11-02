@@ -14,7 +14,7 @@ public:
 	void setAConn_distance_hr(int hr);
 	void setBId_dest_Airport(int id);
 	void setBConn_distance_hr(int hr);
-	void RefuelPlane(Plane a);
+	bool RefuelPlane(Plane a);
 	virtual ~Airport();
 private:
 	int AirportID;

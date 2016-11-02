@@ -10,6 +10,7 @@ class Plane
 public:
 	Plane(int id, int capacity,int  current_AirportID, char direction);
 	int getCapacity();
+	int getPlaneID();
 	int getActualCapacity();
 	void setActualCapacity(int actualCap);
 	char getPlaneDirection();
@@ -19,7 +20,8 @@ public:
 	int getcurrent_AirportID();
 	void setDest_AiportID(int id_Airp);
 	void setcurrent_AirportID(int id_Airp);
-	void setcurrent_flight_time();
+	void setcurrent_flight_time(int hr);
+	int getcurrent_flight_time();
 	string  getdest_arriv_time();
 	string getState();
 	void setState(string stat);
@@ -33,7 +35,7 @@ private:
 	char PlaneDirection;
 	int First_AirportID;
 	int Dest_AirportID;
-	int current_flight_time;
+	int current_flight_time = 0;
 	string dest_arriv_time;
 	int current_AirportID;
 	string state;

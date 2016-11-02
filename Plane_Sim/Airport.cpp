@@ -62,7 +62,7 @@ void Airport::setBConn_distance_hr(int hr)
 	BConn_distance_hr = hr;
 }
 
-void Airport::RefuelPlane(Plane a)
+bool Airport::RefuelPlane(Plane a)
 {
 	int planeCap = a.getCapacity();
 	int actualCap = a.getActualCapacity();
@@ -71,12 +71,16 @@ void Airport::RefuelPlane(Plane a)
 		if (RefueldPlane == true)
 		{
 			RefueldPlane = false;
-			return;
+			
 		}
 	}
-	else
+	else if(RefueldPlane==false)
 	{
 		a.setActualCapacity(planeCap);
 		RefueldPlane = true;
 	}
+	else {
+		RefueldPlane = false;
+	}
+	return RefueldPlane;
 }
