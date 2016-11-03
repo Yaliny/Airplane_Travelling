@@ -1,7 +1,0 @@
-Airplane travelling simulation started. Current time: 03.11.2016 21:33:07
-Simulation parameters: 3 planes, 5 airports.
-Simulation time scale is: 1 hour = 1 second.
-
-0h: Plane 1 departed from airport 2
-0h: Plane 2 departed from airport 2
-0h: Plane 3 departed from airport 3

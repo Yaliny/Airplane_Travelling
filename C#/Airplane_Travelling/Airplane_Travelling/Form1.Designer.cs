@@ -65,7 +65,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(226, 20);
             this.textBox1.TabIndex = 0;
-            this.textBox1.Text = "C:\\Users\\sunfl\\Desktop\\topology.txt";
+            this.textBox1.Text = "topology1.txt";
             // 
             // textBox2
             // 
@@ -73,7 +73,7 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(226, 20);
             this.textBox2.TabIndex = 1;
-            this.textBox2.Text = "C:\\Users\\sunfl\\Desktop\\scenario.txt";
+            this.textBox2.Text = "scenario1.txt";
             // 
             // label1
             // 
